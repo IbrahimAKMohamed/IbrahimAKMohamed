@@ -1,5 +1,6 @@
 ## Ibrahim Mohamed's GitHub Page
 
+<img src="1.png">
 
 Welcome to my GitHub repository! I am Ibrahim Mohamed, a dedicated individual with a keen interest in Software Development , my main area of interest is Web Development . This repository showcases various projects I have worked on, demonstrating my skills and experience in web development, design, and programming.
 
@@ -15,6 +16,17 @@ Welcome to my GitHub repository! I am Ibrahim Mohamed, a dedicated individual wi
 
 ## Introduction
 My journey into the world of technology began during my early school years, where I first encountered programming by discovering the inspect element tool - Playing with Text. Since then, my fascination with software development has only grown stronger, leading me to pursue various self-taught projects and formal education opportunities.
+
+## Projects
+
+## Anything Recruitment™
+-Description: Designed and developed a comprehensive website for Anything Recruitment™, a recruitment agency based in Coventry.
+- Features:
+-    Custom logo incorporated in the NavBar and Footer
+-    Designed and implemented a custom favicon
+-    Unique logo and color scheme
+-    Configured hosting and custom domain name (published at anythingrecruitment.uk)
+   
 
 
 <!--
