@@ -9,10 +9,10 @@ Welcome to my GitHub repository! I am Ibrahim Mohamed, a dedicated individual wi
 - [Introduction](#Introduction)
 - [Projects](#Projects)
 - [Anything Recruitment™](Anything-Recruitment™)
-- [](HTML-Practice Page)
-- [](Tea-Recipe-Website)
-- [](Skills)
-- [](Contact)
+- [HTML Practice Page](HTML-Practice Page)
+- [Tea Recipe Website](Tea-Recipe-Website)
+- [Skills](Skills)
+- [Contact](Contact)
 
 ## Introduction
 My journey into the world of technology began during my early school years, where I first encountered programming by discovering the inspect element tool - Playing with Text. Since then, my fascination with software development has only grown stronger, leading me to pursue various self-taught projects and formal education opportunities.
@@ -28,7 +28,7 @@ My journey into the world of technology began during my early school years, wher
 -     Unique logo and color scheme
 -     Configured hosting and custom domain name (published at anythingrecruitment.uk)
 
-## Personal HTML Practice Page
+## HTML Practice Page
 - Description: This project showcases fundamental elements of HTML, CSS, and JavaScript.
 - Features:
 -     CSS Styling
