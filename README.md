@@ -1,6 +1,6 @@
 ## Ibrahim Mohamed's GitHub Page
 
-<img src="header.png" height="450px">
+<img src="header.png">
 
 Welcome to my GitHub repository! I am Ibrahim Mohamed, a dedicated individual with a keen interest in Software Development , my main area of interest is Web Development . This repository showcases various projects I have worked on, demonstrating my skills and experience in web development, design, and programming.
 
