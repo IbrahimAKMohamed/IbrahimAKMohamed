@@ -36,6 +36,9 @@ Description: Designed and developed a comprehensive website for Anything Recruit
   
 </details>
 
+<details>
+  <summary> HTML Practice Page </summary>
+  
 ## HTML Practice Page
 - Description: This project showcases fundamental elements of HTML, CSS, and JavaScript.
 - Features:
@@ -45,6 +48,10 @@ Description: Designed and developed a comprehensive website for Anything Recruit
 -     Text switch feature using JavaScript
 -     Embedded an iFrame to display external content (example advertisement)
 -     Published with GitHub Pages at [ibrahimakmohamed.github.io](www.ibrahimakmohamed.github.io/V1)
+ </details>
+
+ <details>
+ <summary> Tea Recipe Website </summary>
 
 ## Tea Recipe Website
 - Description: A simple and elegant website dedicated to sharing various tea recipes.
@@ -53,6 +60,7 @@ Description: Designed and developed a comprehensive website for Anything Recruit
 -     Easy navigation through different tea recipes
 -     Detailed recipe pages with ingredients and preparation steps
 -     Responsive design for optimal viewing on different devices
+</details>
 
 ## Skills
 - Programming Languages: HTML, CSS, MD
