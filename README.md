@@ -2,7 +2,7 @@
 
 <img src="header.png">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 Welcome to my GitHub repository! I am Ibrahim Mohamed, a dedicated individual with a keen interest in Software Development , my main area of interest is Web Development . This repository showcases various projects I have worked on, demonstrating my skills and experience in web development, design, and programming.
 
