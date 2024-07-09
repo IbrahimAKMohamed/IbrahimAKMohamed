@@ -26,7 +26,7 @@ My journey into the world of technology began during my early school years, wher
 <summary> Anything Recruitment™ </summary>
 <br>
 
-- Description: Designed and developed a comprehensive website for Anything Recruitment™, a recruitment agency based in Coventry.
+Description: Designed and developed a comprehensive website for Anything Recruitment™, a recruitment agency based in Coventry.
 - Features:
 -     #1 Ranking On Google Search Results
 -     Custom logo incorporated in the NavBar and Footer
@@ -35,15 +35,6 @@ My journey into the world of technology began during my early school years, wher
 -     Configured hosting and custom domain name (published at anythingrecruitment.uk)
   
 </details>
-
-## Anything Recruitment™
-- Description: Designed and developed a comprehensive website for Anything Recruitment™, a recruitment agency based in Coventry.
-- Features:
--     #1 Ranking On Google Search Results
--     Custom logo incorporated in the NavBar and Footer
--     Designed and implemented a custom favicon
--     Unique logo and color scheme
--     Configured hosting and custom domain name (published at anythingrecruitment.uk)
 
 ## HTML Practice Page
 - Description: This project showcases fundamental elements of HTML, CSS, and JavaScript.
