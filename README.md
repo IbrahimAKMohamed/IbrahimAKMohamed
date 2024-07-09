@@ -9,7 +9,7 @@ Welcome to my GitHub repository! I am Ibrahim Mohamed, a dedicated individual wi
 - [Introduction](#Introduction)
 - [Projects](#Projects)
 - [Anything Recruitment™](Anything-Recruitment™)
-- [HTML Practice Page](HTML-Practice Page)
+- [HTML Practice Page](HTML-Practice-Page)
 - [Tea Recipe Website](Tea-Recipe-Website)
 - [Skills](Skills)
 - [Contact](Contact)
