@@ -26,7 +26,7 @@ My journey into the world of technology began during my early school years, wher
 <summary> Anything Recruitment™ </summary>
 <br>
 
-Description: Designed and developed a comprehensive website for Anything Recruitment™, a recruitment agency based in Coventry.
+Description: Designed a comprehensive website for Anything Recruitment™, a recruitment agency based in Coventry.
 - Features:
 -     #1 Ranking On Google Search Results
 -     Custom logo incorporated in the NavBar and Footer
