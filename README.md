@@ -4,7 +4,7 @@
 <img src="Ibrahim A.png">
                                                                                                                                                                                                               
 <p align ="center"> 
-<img src="terminal.gif" >
+<img src="terminal.gif" height="200px">
 </p>
 
                                                                                                                                                                                            
