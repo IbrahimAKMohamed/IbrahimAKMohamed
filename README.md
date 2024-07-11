@@ -3,7 +3,7 @@
 
 <img src="Ibrahim A.png">
 
-<p style="align : center"> 
+<p align ="center"> 
 <img src="terminal.gif" >
 </p>
 
