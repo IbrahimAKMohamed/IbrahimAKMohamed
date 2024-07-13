@@ -17,7 +17,7 @@ Welcome to my GitHub page. I am Ibrahim Mohamed, a dedicated individual with a k
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Projects](#Projects)
-- [Anything Recruitment™](#Anything-Recruitment™)
+- [Anything Recruitment™](#<summary>-Anything-Recruitment™-</summary>)
 - [HTML Practice Page](#HTML-Practice-Page)
 - [Tea Recipe Website](#Tea-Recipe-Website)
 - [Skills](#Skills)
