@@ -17,11 +17,11 @@ Welcome to my GitHub page. I am Ibrahim Mohamed, a dedicated individual with a k
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Projects](#Projects)
-- [Anything Recruitment™](Anything-Recruitment™)
-- [HTML Practice Page](HTML-Practice-Page)
-- [Tea Recipe Website](Tea-Recipe-Website)
-- [Skills](Skills)
-- [Contact](Contact)
+- [Anything Recruitment™](#Anything-Recruitment™)
+- [HTML Practice Page](#HTML-Practice-Page)
+- [Tea Recipe Website](#Tea-Recipe-Website)
+- [Skills](#Skills)
+- [Contact](#Contact)
 
 ## Introduction
 My journey into the world of technology began during my early school years, where I first encountered programming by discovering the inspect element tool - Playing with Text. Since then, my fascination with software development has only grown stronger, leading me to pursue various self-taught projects and formal education opportunities.
