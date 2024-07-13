@@ -17,9 +17,6 @@ Welcome to my GitHub page. I am Ibrahim Mohamed, a dedicated individual with a k
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Projects](#Projects)
-- [Anything Recruitment™](#<summary> Anything Recruitment™ </summary>)
-- [HTML Practice Page](#HTML-Practice-Page)
-- [Tea Recipe Website](#Tea-Recipe-Website)
 - [Skills](#Skills)
 - [Contact](#Contact)
 
@@ -29,7 +26,7 @@ My journey into the world of technology began during my early school years, wher
 ## Projects
 
 <details>
-<summary> Anything Recruitment™ </summary>
+<summary>Anything Recruitment™ </summary>
 <br>
 
 Description: Designed a comprehensive website for Anything Recruitment™, a recruitment agency based in Coventry.
